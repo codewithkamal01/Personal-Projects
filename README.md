@@ -1,2 +1,2 @@
 # Personal-Projects
-Here i am adding all of my personal project during my bca degree journey.
+Here i am adding simple personal project during my bca degree journey.
