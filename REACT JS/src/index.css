@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root {
+  --gilroy: "Gilroy", sans-serif;
+}
